@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fazal-byte: A passionate Data Analytics
 - 👀 very keen interested in uncovering insights and driving data-informed decisions.
--     My expertise lies in transforming raw data into actionable insights through various analytical techniques and tools.
+      My Experties Lies into Transforming Raw-Data into actionable Insights Through Various Analytical Techniques and Tools.
 - 🌱 currently learning Python
 - 💞️ I’m looking to collaborate for creating dashboards to generate actionable  iInsights for Business Growth. 
 - 📫 How to reach me? just hit a Mail on -> (ansarifazal2014@gmail.com) or 
